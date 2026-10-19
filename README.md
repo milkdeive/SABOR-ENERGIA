@@ -22,16 +22,22 @@ Conseguir concluir o projeto a tempo para garantir a nota na disciplina de **Aut
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/milkdeive">
-        <img src="https://github.com/milkdeive.png" width="100px;" alt="Foto do Milk"/>
-      </a>
-      <figcaption>Milk</figcaption>
+      <figure align="center">
+        <a href="https://github.com/milkdeive">
+          <img src="https://github.com/milkdeive.png" width="100px;" alt="Foto do Milk"/>
+        </a>
+        <br>
+        <figcaption>Milk</figcaption>
+      </figure>
     </td>
     <td align="center">
-      <a href="https://github.com/Super-Johnny-Programmer">
-        <img src="https://github.com/Super-Johnny-Programmer.png" width="100px;" alt="Foto do Johnny"/>
-      </a>
-      <figcaption>Johnny</figcaption>
+      <figure align="center">
+        <a href="https://github.com/Super-Johnny-Programmer">
+          <img src="https://github.com/Super-Johnny-Programmer.png" width="100px;" alt="Foto do Johnny"/>
+        </a>
+        <br>
+        <figcaption>Johnny</figcaption>
+      </figure>
     </td>
   </tr>
 </table>
