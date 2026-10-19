@@ -1,0 +1,1 @@
+Nesse projeto, eu e meu bro, Johnny Joestar (Jonathan), iremos falar sobre economia de energia, com nossa representação visual sendo o grandiosíssimo SABOR ENERGIA
