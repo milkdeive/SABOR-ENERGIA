@@ -1,6 +1,5 @@
 console.log("SABOR ENERGIA - Painel de consumo");
-
-const nomeDoProjeto = "Sabor Energia";
+console.log("=".repeat(33));
 const limiteDeConsumo = 300;
 
 const listaDeDadosMes = [
@@ -100,7 +99,6 @@ const mesesAcimaDoLimite = contarPeriodosAcima(
 const classificacao = classdoConsumo(media);
 
 // os coiso do CONSOLE.LOG guys
-console.log("Projeto:", nomeDoProjeto);
 console.log("Consumo total:", total.toFixed(2), "kWh");
 console.log("Média por período:", media.toFixed(2), "kWh");
 console.log("Períodos acima de 300 kWh:", mesesAcimaDoLimite);
