@@ -1,6 +1,7 @@
 console.log("SABOR ENERGIA - Painel de consumo");
 console.log("=".repeat(33));
 const limiteDeConsumo = 300;
+const dadosSaoFicticios = true;
 
 const listaDeDadosMes = [
     [1100, 9, 31],
@@ -100,6 +101,7 @@ const classificacao = classdoConsumo(media);
 
 // os coiso do CONSOLE.LOG guys
 console.log("Consumo total:", total.toFixed(2), "kWh");
+console.log("Dados fictícios:", dadosSaoFicticios);
 console.log("Média por período:", media.toFixed(2), "kWh");
 console.log("Períodos acima de 300 kWh:", mesesAcimaDoLimite);
 console.log("Classificação da média:", classificacao);
