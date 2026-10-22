@@ -51,7 +51,7 @@ function mediaAnual(consumos) {
 function classdoConsumo(kWhdoMes) {
     if (kWhdoMes > limiteDeConsumo) {
         return "Elevado";
-    } else if (kWhdoMes >= 166) {
+    } else if (kWhdoMes >= 166 && kWhdoMes <= limiteDeConsumo) {
         return "Moderado";
     } else {
         return "Econômico";
